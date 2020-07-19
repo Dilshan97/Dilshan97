@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ![Dilshan's github stats](https://github-readme-stats.vercel.app/api?username=Dilshan97&show_icons=true&hide_border=true)
 
-I’m currently learning Angular
+
