@@ -2,7 +2,7 @@
 
 This is the place where I opensource stuff and break things :rofl:
 
- ![enter image description here](https://www.bacancytechnology.com/blog/wp-content/uploads/2019/07/developer-dribbble.gif)
+ ![enter image description here](./img/dev.gif)
 
 - 🔭 I’m currently working on something cool :wink:
 
