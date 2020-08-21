@@ -2,7 +2,7 @@
 
 This is the place where I opensource stuff and break things :rofl:
 
-  <img src="img/dev.gif"/>
+  <img src="./img/dev.gif"/>
 
 - 🔭 I’m currently working on something cool :wink:
 
