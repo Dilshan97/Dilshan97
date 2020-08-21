@@ -1,5 +1,7 @@
 ### Hi there I'm Dilshan Ramesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+I'm a Full Stack Developer | Innovator | Entrepreneur
+
 This is the place where I opensource stuff and break things :rofl:
 
  ![enter image description here](https://github.com/Dilshan97/Dilshan97/blob/master/img/dev.gif)
