@@ -1,6 +1,6 @@
 ### Hi there I'm Dilshan Ramesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a Full Stack Developer | Innovator | Entrepreneur
+I'm a Full Stack Developer | Innovator | Entrepreneur | Undergraduate | Student
 
 This is the place where I opensource stuff and break things :rofl:
 
