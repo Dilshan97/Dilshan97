@@ -2,7 +2,7 @@
 
 This is the place where I opensource stuff and break things :rofl:
 
- ![enter image description here](./img/dev.gif)
+ ![enter image description here](https://github.com/Dilshan97/Dilshan97/blob/master/img/dev.gif)
 
 - 🔭 I’m currently working on something cool :wink:
 
@@ -12,6 +12,6 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 📫 How to reach me: [@dilshanramesh81](https://twitter.com/dilshanramesh81)
 
-- ⚡ Fun fact: I :heart: 
+- ⚡ Fun fact: I ❤️ 💻👨‍🎓👫🖥️
 
 ![Dilshan's github stats](https://github-readme-stats.vercel.app/api?username=Dilshan97&show_icons=true&hide_border=true)
