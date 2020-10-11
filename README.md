@@ -17,3 +17,4 @@ This is the place where I opensource stuff and break things :rofl:
 - ⚡ Fun fact: I ❤️ 💻👨‍🎓👫🖥️
 
 ![Dilshan's github stats](https://github-readme-stats.vercel.app/api?username=Dilshan97&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilshan97&layout=compact)
