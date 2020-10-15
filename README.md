@@ -1,10 +1,10 @@
 ### Hi there I'm Dilshan Ramesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm a Full Stack Developer | Innovator | Entrepreneur | Undergraduate | Student
+I'm a Software Engineer | Full Stack Developer | Innovator | Entrepreneur | Undergraduate | Student
 
 This is the place where I opensource stuff and break things :rofl:
 
- ![enter image description here](https://github.com/Dilshan97/Dilshan97/blob/master/img/dev.gif)
+ ![enter image description here](https://github.com/Dilshan97/Dilshan97/blob/master/img/coder1.gif)
 
 - 🔭 I’m currently working on something cool :wink:
 
