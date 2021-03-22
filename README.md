@@ -8,7 +8,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on something cool :wink:
 
-- 🌱 I’m currently learning IOT, Cloud Computing and Laravel
+- 🌱 I’m currently learning SEO optimization, IOT, Cloud Computing and Laravel
 
 - 💬 Ask me about anything related to PHP/Laravel/Angular/React/Android
 
