@@ -14,7 +14,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on something cool :wink:
 
-- 🌱 I’m currently learning SEO optimization, NodeJs and React Style Components
+- 🌱 I’m currently learning Gatsby, IOS development
 
 - 💬 Ask me about anything related to PHP/Laravel/Angular/React/Android
 
