@@ -169,4 +169,4 @@ This is the place where I opensource stuff and break things :rofl:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilshan97&layout=compact)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilshan97&" alt="Dilshan97" /></p>
 
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tp2m9l4ecpewcfa2i8wqp0qx9&cover_image=false&theme=default)]
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tp2m9l4ecpewcfa2i8wqp0qx9&cover_image=false&theme=default)
