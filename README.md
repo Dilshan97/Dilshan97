@@ -1,4 +1,4 @@
-### Hi there I'm Dilshan Ramesh <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there I'm Dilshan Ramesh <img src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif" width="25px">
 
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=Dilshan97&label=Profile%20views&color=0e75b6&style=flat" alt="dilshan97" /> 
