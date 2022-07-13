@@ -10,7 +10,9 @@ I'm a Software Engineer | Full Stack Developer | Innovator | Entrepreneur | Unde
 This is the place where I opensource stuff and break things :rofl:
 
 <!--  ![enter image description here](https://github.com/Dilshan97/Dilshan97/blob/master/img/coder1.gif) -->
-<!--   <img src="https://github.com/Dilshan97/Dilshan97/raw/master/img/dev1.gif" style="width: 70%;" /> -->
+<!--  <img src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif" style="width: 70%;" /> -->
+
+<!-- <img src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif" style="width: 70%;" >  -->
 
 - 🔭 I’m currently working on something cool :wink:
 
