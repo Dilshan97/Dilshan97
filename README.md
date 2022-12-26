@@ -16,11 +16,11 @@ This is the place where I opensource stuff and break things :rofl:
 
 - 🔭 I’m currently working on something cool :wink:
 
-- 🌱 I’m currently learning Gatsby, IOS development
+- 🌱 I’m currently learning Flutter and Native IOS development
 
 - 💬 Ask me about anything related to PHP/Laravel/Angular/React/Android
 
-- 📫 How to reach me: [@dilshanramesh81](https://twitter.com/dilshanramesh81)
+- 📫 How to reach me: [@dilshanramesh81](https://twitter.com/dilshanramesh81) or simply search on google as **dilshan97**
 
 - ⚡ Fun fact: I ❤️ 💻👨‍🎓👫🖥️
 
