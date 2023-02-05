@@ -5,7 +5,7 @@
 </p>
 
 
-I'm a Software Engineer | Full Stack Developer | Innovator | Entrepreneur | Undergraduate | Student
+I'm a Software Engineer | Full Stack Developer | Innovator | Entrepreneur
 
 This is the place where I opensource stuff and break things :rofl:
 
