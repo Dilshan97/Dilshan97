@@ -7,7 +7,7 @@
 
 I'm a Software Engineer | Full Stack Developer | Innovator | Entrepreneur
 
-This is the place where I opensource stuff and break things :rofl:
+This is the place where I open source stuff and break things :rofl:
 
 <!--  ![enter image description here](https://github.com/Dilshan97/Dilshan97/blob/master/img/coder1.gif) -->
 <!--  <img src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif" style="width: 70%;" /> -->
@@ -40,3 +40,5 @@ This is the place where I opensource stuff and break things :rofl:
 
 <!-- ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tp2m9l4ecpewcfa2i8wqp0qx9&cover_image=false&theme=default)
  -->
+
+ <a href="https://www.buymeacoffee.com/dilshan97" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
