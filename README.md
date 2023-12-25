@@ -31,7 +31,7 @@ This is the place where I open source stuff and break things :rofl:
 
 **Tech Stack**
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,react,flutter,dart,redux,firebase,aws,gatsby,git,github,githubactions,js,mysql,nextjs,php,angular,redux,arduino)]()
+[![My Skills](https://skillicons.dev/icons?i=laravel,react,flutter,dart,nodejs,redux,firebase,aws,gatsby,git,github,githubactions,js,mysql,nextjs,php,angular,redux,arduino)]()
 
 
 ![Dilshan's github stats](https://github-readme-stats.vercel.app/api?username=Dilshan97&count_private=true&show_icons=true&hide_border=true)
