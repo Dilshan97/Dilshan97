@@ -7,7 +7,7 @@
 [![committers.top badge](https://user-badge.committers.top/sri_lanka_private/Dilshan97.svg)](https://user-badge.committers.top/sri_lanka_private/Dilshan97)
 
 
-I'm a Software Engineer | Full Stack Developer | Innovator | Entrepreneur
+ɪ'ᴍ ᴀ ꜱᴏꜰᴛᴡᴀʀᴇ ᴇɴɢɪɴᴇᴇʀ | ꜰᴜʟʟ ꜱᴛᴀᴄᴋ ᴅᴇᴠᴇʟᴏᴘᴇʀ | ɪɴɴᴏᴠᴀᴛᴏʀ | ᴇɴᴛʀᴇᴘʀᴇɴᴇᴜʀ
 
 This is the place where I open source stuff and break things :rofl:
 
@@ -20,7 +20,7 @@ This is the place where I open source stuff and break things :rofl:
 
 - 🌱 I’m currently learning Flutter and Native IOS development
 
-- 💬 Ask me about anything related to PHP/Laravel/Angular/React/Android
+- 💬 Ask me about anything related to Laravel, NodeJs, React, Flutter
 
 - 📫 How to reach me: [@dilshanramesh81](https://twitter.com/dilshanramesh81) or simply search on google as **dilshan97**
 
@@ -33,7 +33,7 @@ This is the place where I open source stuff and break things :rofl:
 
 **Tech Stack**
 
-[![My Skills](https://skillicons.dev/icons?i=laravel,react,flutter,dart,nodejs,redux,firebase,aws,gatsby,git,github,githubactions,js,ts,mysql,nextjs,php,angular,redux,arduino)]()
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,ts,js,laravel,react,flutter,mysql,nextjs,aws)]()
 
 
 ![Dilshan's github stats](https://github-readme-stats.vercel.app/api?username=Dilshan97&count_private=true&show_icons=true&hide_border=true)
