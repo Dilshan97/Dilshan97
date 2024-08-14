@@ -18,7 +18,8 @@ This is the place where I open source stuff and break things :rofl:
 
 - 🔭 I’m currently working on something cool :wink:
 
-- 🌱 I’m currently learning Flutter and Native IOS development
+- 🌱 I’m currently improving my NodeJs, React & Full-Stack skills
+
 
 - 💬 Ask me about anything related to Laravel, NodeJs, React, Flutter
 
