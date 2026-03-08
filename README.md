@@ -36,13 +36,4 @@ This is the place where I open source stuff and break things :rofl:
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,ts,js,laravel,react,flutter,mysql,nextjs,aws)]()
 
-
-![Dilshan's github stats](https://github-readme-stats.vercel.app/api?username=Dilshan97&count_private=true&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dilshan97&layout=compact)
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilshan97&" alt="Dilshan97" /></p>
-
-<!-- ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=tp2m9l4ecpewcfa2i8wqp0qx9&cover_image=false&theme=default)
- -->
-
- <a href="https://www.buymeacoffee.com/dilshan97" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
