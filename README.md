@@ -36,4 +36,5 @@ This is the place where I open source stuff and break things :rofl:
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,ts,js,laravel,react,flutter,mysql,nextjs,aws)]()
 
+<img src="https://gh-window.vercel.app/api/dilshan97?theme=dark&accent=10b981" />
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dilshan97&" alt="Dilshan97" /></p>
